@@ -1,0 +1,20 @@
+.card {
+    box-shadow: 2px 2px 15px 1px #c1c1c1;
+}
+.card img{
+    width: 100%;
+    max-height: 150px;
+}
+.card-title {
+    font-size: 28px;
+    text-transform: capitalize;
+    margin-top: 25px;
+    text-align: center;
+}
+@media only screen and (max-width: 576px){
+    .card{
+        width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

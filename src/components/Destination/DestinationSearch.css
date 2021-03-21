@@ -1,0 +1,18 @@
+.horizontal-line{
+    background: lightgray;
+}
+.form-area{
+    background: #EFEFEF;
+    padding: 30px 40px;
+    border-radius: 10px;
+}
+.form-area input{
+    border: none !important;
+}
+.form-area label{
+    font-weight: 500;
+}
+.form-area button{
+    background: #FF6E40;
+    color: white;
+}

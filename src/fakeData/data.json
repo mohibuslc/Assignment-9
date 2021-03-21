@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"rideName": "bike",
+		"image": "https://st.depositphotos.com/1004035/1358/v/950/depositphotos_13582393-stock-illustration-vector-cartoon-motorbike.jpg",
+		"rent": 45,
+		"user": 20
+	},
+	{
+		"id": 2,
+		"rideName": "car",
+		"image": "https://image.freepik.com/free-vector/taxi-car-cartoon-illustration_151150-1498.jpg",
+		"rent": 67,
+		"user": 4
+	},
+	{
+		"id": 3,
+		"rideName": "bus",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBn2_APqcLIZ0dEBD_6Rvk3H5NEUEC0cYTVw&usqp=CAU",
+		"rent": 33,
+		"user": 78
+	},
+	{
+		"id": 4,
+		"rideName": "train",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_OEgPRu5N03NfBwgMeHAQPY3C8nHtyd8IQ&usqp=CAU",
+		"rent": 29,
+		"user": 80
+	}
+]

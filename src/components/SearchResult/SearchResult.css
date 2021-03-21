@@ -1,0 +1,34 @@
+.placeNames{
+    background-color: #ff6e40;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: white;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    margin: 20px 0;
+}
+.content{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.details p{
+    margin: 0;
+    font-weight: 500;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.user-icon{
+    color: gray;
+}
+.content img{
+    height: 35px;
+    text-transform: capitalize;
+}

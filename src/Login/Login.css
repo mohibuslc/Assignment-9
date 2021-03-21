@@ -1,0 +1,80 @@
+.form-title{
+    font-weight: bolder;
+    margin-bottom: 35px;
+}
+.signIn-area, .signUp-area {
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid lightgray;
+    padding: 20px 30px;
+    border-radius: 3px;
+    margin-top: 50px;
+}
+.login-menu input.form-control {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0;
+    margin: 20px 0;
+}
+.login-menu .form-control:focus {
+    color: black !important;
+    border-color: #ff6e40 !important;
+    border-radius: 0;
+    outline: 0;
+    box-shadow: none !important;
+}
+.login-menu .form-btn {
+    background: #FF6E40 !important;
+    color: white !important;
+    margin-top: 20px;
+}
+.optional-option button{
+    border:none;
+    text-decoration: underline;
+    text-decoration-color: #ff6e40;
+    color: #ff6e40;
+    background-color: white;
+}
+.or{
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.optional-option{
+    text-align: center;
+    margin-top: 5px;
+}
+.social-login-option{
+    text-align: center;
+    margin-top: 30px;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px 30px;
+}
+.social-login-option button{
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 5px 15px;
+    margin: 10px 0;
+    border: none;
+    border:1px solid lightgray;
+    border-radius: 50px;
+    color: black;
+}
+.social-text{
+    margin-left: 30%;
+}
+.fb{
+    font-size: 28px;
+    padding-top: 3px;
+    color: blue;
+}
+.google{
+    font-size: 26px;
+    padding-top: 3px;
+    color: red;
+}
+.social-login-option button:focus{
+    border-color: #ff6e40;
+}
